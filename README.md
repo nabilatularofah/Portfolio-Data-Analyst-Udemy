@@ -9,6 +9,9 @@ with stages of data cleaning, EDA, and data visualization using python and jupyt
   	
 > Missing values
 The income and city variables are the only two that have null values.
+
+
+
 ![missing values](https://github.com/user-attachments/assets/54c85e46-8408-44b3-a4de-a5c8b8235fd9)
 
 > inconsistent data
