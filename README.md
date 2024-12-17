@@ -31,37 +31,54 @@ One row of the data has similarities.
 
 
 2.	EDA
-    Exploratory Data Analysis, or EDA for short, is the next step after data cleaning.
+
+  	Exploratory Data Analysis, or EDA for short, is the next step after data cleaning.
   	Finding patterns, testing theories, forming assumptions, and spotting irregularities in the data are the goals of this phase.
 	
 > Purchase channel percentage
+
 A pattern of consumer behavior about product purchases through online and in-store/offline retailers was derived from the data.
 The findings indicate that compared to in-store purchases, online store purchases are higher.
+
 ![p1](https://github.com/user-attachments/assets/6e88589c-8986-4196-bce1-a5bae852c8ab)
 
 > Total average purchase amount by city
+
 When compared to the other three cities, Houston has the most purchases among the cities in the data.
+
  ![p2](https://github.com/user-attachments/assets/e3c83f56-0724-4c15-9de1-c9ca8dcf2714)
 
 > Total RFM by churn status
+
 Based on the RFM factors—Recency, Frequency, and Monetary—it can be inferred from the following table
 that there are more clients who unsubscribe than remaining.
- ![p3](https://github.com/user-attachments/assets/d44b3da6-b5b7-4173-8474-3f1f7005e944)
+
+![p3](https://github.com/user-attachments/assets/d44b3da6-b5b7-4173-8474-3f1f7005e944)
 
 > Churn status by city
+
 Additionally, compared to other countries, Los Angeles has a larger percentage of clients who discontinue their subscriptions.
- ![p4](https://github.com/user-attachments/assets/7b2091b1-fa7f-4b75-988e-9d2513575f90)
+
+![p4](https://github.com/user-attachments/assets/7b2091b1-fa7f-4b75-988e-9d2513575f90)
 
 > The relationship between average purchase amount and frequency of purchases
+
 The two are positively correlated, meaning that customers' purchases increase with the frequency of their purchases.
 
 > Statistic average purchase amount
+
 The average purchasing amount yielded a statistical value of:
+
  Min : 37
+ 
  Q1 : 76
+ 
  Median : 97
+ 
  Q2 : 120
+ 
  Max : 163
+ 
  Outlier : 193 
 
 3.	Data visualization
