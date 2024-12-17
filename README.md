@@ -8,6 +8,7 @@ with stages of data cleaning, EDA, and data visualization using python and jupyt
   	Three components of this data—completeness, consistency, and uniqueness—need to be cleansed.
   	
 > Missing values
+
 The income and city variables are the only two that have null values.
 
 
@@ -15,11 +16,17 @@ The income and city variables are the only two that have null values.
 ![missing values](https://github.com/user-attachments/assets/54c85e46-8408-44b3-a4de-a5c8b8235fd9)
 
 > inconsistent data
+
 The variable 'Customer_Lifespan_Month' contains a value xxxx that is inconsistent or does not match other values.
+
+
 ![inconsistency](https://github.com/user-attachments/assets/932d0ab1-3cf7-4f85-9dfe-882970382f5c)
 
 > duplicates value
+
 One row of the data has similarities.
+
+
 ![duplicat](https://github.com/user-attachments/assets/7dd71559-ba4b-4b37-912f-2a25321ec16b)     
 
 
