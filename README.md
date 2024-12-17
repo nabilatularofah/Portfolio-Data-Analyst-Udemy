@@ -85,20 +85,26 @@ The average purchasing amount yielded a statistical value of:
 Hasil visualisasi dari EDA
 
 > Percenatge of purchase channel
+
 ![g1](https://github.com/user-attachments/assets/bbe06bc0-5be5-45a1-baa1-04c219b5d0e9)
 
 > Average purchase amount by cities
+
 ![g2](https://github.com/user-attachments/assets/115059bf-febc-4019-83bc-2d6e2fe7f5b0)
 
 >  Customer churned by cities
+
 ![g4](https://github.com/user-attachments/assets/eabaf1f2-eb9a-472c-a504-9e096ceb87f8)
 
 > Relationship between frequency purchase and average purchase amount
+
 ![g5](https://github.com/user-attachments/assets/c4d01532-6e35-42a2-9a2d-6422788ff6e7)
 
 > Boxplot average purchase amount
+
 ![g6](https://github.com/user-attachments/assets/1457804a-362c-4ffb-bac9-9b15d2de4e70)
 
 > Correlation matrix
+
 ![g7](https://github.com/user-attachments/assets/fd55e942-7ec9-4e5d-96b4-7f29c7fba9c4)
 
